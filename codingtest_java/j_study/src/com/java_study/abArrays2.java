@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 
 /* 2차원 배열 */
-public class arrays2 {
+public class abArrays2 {
 
 
     public static void main(String[] args) {
