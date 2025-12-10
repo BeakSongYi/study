@@ -1,7 +1,7 @@
 package com.java_study;
 
 /* 다중 반복문 탈출 - 제어 키워드 + label */
-public class abLabel {
+public class AbLabel {
 
 	public static void main(String[] args) {
 		

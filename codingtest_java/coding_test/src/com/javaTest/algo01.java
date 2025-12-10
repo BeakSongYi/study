@@ -3,7 +3,7 @@ package com.javaTest;
 import java.util.Arrays;
 
 /* 01.배열 정렬하기 */
-public class algo01 {
+public class Algo01 {
 
 
     public static void main(String[] args) {

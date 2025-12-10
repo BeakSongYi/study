@@ -1,7 +1,7 @@
 package com.java_study;
 
 /* String 클래스 */
-public class abString1 {
+public class AbString1 {
 
 	public static void main(String args[]) {
 		

@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.TreeSet;
 
 /* 02.배열 제어하기 */
-public class algo02 {
+public class Algo02 {
 
 
     public static void main(String[] args) {

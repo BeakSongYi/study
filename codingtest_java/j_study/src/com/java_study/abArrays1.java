@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 
 /* 1차원 배열 */
-public class abArrays1 {
+public class AbArrays1 {
 
 
     public static void main(String[] args) {

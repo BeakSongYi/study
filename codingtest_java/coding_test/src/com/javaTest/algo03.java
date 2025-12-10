@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.TreeSet;
 
 /* 03.두 개 뽑아서 더하기 */
-public class algo03 {
+public class Algo03 {
 
 
     public static void main(String[] args) {

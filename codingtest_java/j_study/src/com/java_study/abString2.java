@@ -3,7 +3,7 @@ package com.java_study;
 import java.util.Arrays;
 
 /* String 클래스의 주요 메서드 */
-public class abString2 {
+public class AbString2 {
 
 	public static void main(String[] args) {
 		

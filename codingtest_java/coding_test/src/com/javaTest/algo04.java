@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 
 /* 04.모의고사 */
-public class algo04 {
+public class Algo04 {
 
 
     public static void main(String[] args) {
